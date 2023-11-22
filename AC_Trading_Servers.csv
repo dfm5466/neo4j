@@ -1,0 +1,19 @@
+System;Env;VM Name;CPU;RAM;SSD;Datastore;Snapshot count;Snapshot size;IP address;Jira task;Notes;UsedBy;UsedBy_Name;Status
+Atom;prod;bro-ln-srv171;4;8;80;Dell-lun238-live;0;0;10.77.10.87;Unknown;Проект АТОМ;System;Atom;old
+Atom;prod;acp-atomfx-01;4;8;40;Dell-lun239-live;0;0;10.77.10.173;Unknown;https://jira.alfacapital.ru/browse/ATD-1770;Component;FIX Adapter;active
+Atom;dev;acd-atomfx-01;4;8;60;3PARLun30-RDC;0;0;10.77.35.122;Unknown;https://jira.alfacapital.ru/browse/ATD-1770;Component;FIX Adapter;active
+capQORT;prod;ac-ms-srv127_restore;4;32;350;Dell-lun237-live;0;0;10.77.20.52;Unknown;One More QORT APP;Component;cqAppAutoInvest;active
+capQORT;prod;ac-ms-srv127;4;32;350;Dell-lun237-live;0;0;10.77.20.52;Unknown;One More QORT APP;Component;cqAppAutoInvest;active
+capQORT;prod;itg-ms-srv175;4;4;60;Dell-lun237-live;0;0;10.99.10.53;Unknown;Что-то капкортовое судя по учетка в системе;Component;AutoQort;active
+capQORT;prod;ac-ms-srv128;16;96;800;Dell-lun237-live;0;0;None;Unknown;One More QORT DB;DBMS;CQ AutoInvest Prod;active
+capQORT;prod;acp-qort-repl01;16;96;650;Dell-lun237-live;0;0;10.77.20.202;Unknown;Capqort;DBMS;CQ Main Prod Replica;active
+capQORT;prod;itg-ms-srv174;18;256;3434;ME5084-OST-lun231;0;0;10.99.10.63 10.99.10.67;Unknown;QORT Replica;DBMS;CQ Main Prod Replica;active
+capQORT;prod;itg-ms-srv126;16;96;400;Dell-lun240-live;0;0;10.99.10.85;Unknown;APP QORT prod;Component;cqAppMain;active
+capQORT;dev;ac-ms-srv113;8;16;4710;3PARLun6-RDC;0;0;10.77.20.59 10.99.12.13;Unknown;QORT t-1 тест Цаприлов;Component;cqOSA DB Test;active
+capQORT;dev;acd-qort-ts01;8;24;280;ME5084-OST-lun231;0;0;10.77.10.101;Unknown;Сервер терминалов для dev контура capqort;Component;cqAppTerminals;active
+capQORT;dev;ac-ms-tst111;4;64;2913;Dell-lun244-live;0;0;10.77.20.158;Unknown;Тестовая DB для группы тестирования. owner - Челяпин;DBMS;CQ Main Dev;active
+capQORT;dev;ac-ms-srv121;16;48;200;3PARLun6-RDC;0;0;10.99.12.7;SOF-25371;Test APP QORT https://jira.alfacapital.ru/browse/SOF-25371;Component;cqAppMain;active
+MD;prod;acp-md-quik01;2;4;40;Dell-lun239-live;0;0;None;Unknown;quick market data;Component;Quik MD;active
+MD;prod;ac-ln-srv159;4;4;20;ME5084-DS-lun232;0;0;10.77.20.146;ATD-222;PostgreSQL;DBMS;MarketData DB;active
+MD;dev;ac-ms-tst113;4;4;50;3PARLun7_Kuber;0;0;10.99.12.20;Unknown;Аникеев MS SQL;DBMS;QuikServer;active
+MD;dev;ac-ln-tst-srv129;4;2;20;3PARLun30-RDC;0;0;10.77.35.79;ATD-222;PostgreSQL для Журавлева https://jira.alfacapital.ru/browse/ATD-222;DBMS;MD DB Test;active
