@@ -9,7 +9,7 @@ capQORT;prod;ac-ms-srv128;16;96;800;Dell-lun237-live;0;0;None;Unknown;One More Q
 capQORT;prod;acp-qort-repl01;16;96;650;Dell-lun237-live;0;0;10.77.20.202;Unknown;Capqort;DBMS;CQ Main Prod Replica;active
 capQORT;prod;itg-ms-srv174;18;256;3434;ME5084-OST-lun231;0;0;10.99.10.63 10.99.10.67;Unknown;QORT Replica;DBMS;CQ Main Prod Replica;active
 capQORT;prod;itg-ms-srv126;16;96;400;Dell-lun240-live;0;0;10.99.10.85;Unknown;APP QORT prod;Component;cqAppMain;active
-capQORT;dev;ac-ms-srv113;8;16;4710;3PARLun6-RDC;0;0;10.77.20.59 10.99.12.13;Unknown;QORT t-1 ňĺńň Öŕďđčëîâ;Component;cqOSA DB Test;active
+capQORT;dev;ac-ms-srv113;8;16;4710;3PARLun6-RDC;0;0;10.77.20.59 10.99.12.13;Unknown;QORT t-1 ňĺńň Öŕďđčëîâ;DBMS;CQ OSA DB Test;active
 capQORT;dev;acd-qort-ts01;8;24;280;ME5084-OST-lun231;0;0;10.77.10.101;Unknown;Ńĺđâĺđ ňĺđěčíŕëîâ äë˙ dev ęîíňóđŕ capqort;Component;cqAppTerminals;active
 capQORT;dev;ac-ms-tst111;4;64;2913;Dell-lun244-live;0;0;10.77.20.158;Unknown;Ňĺńňîâŕ˙ DB äë˙ ăđóďďű ňĺńňčđîâŕíč˙. owner - ×ĺë˙ďčí;DBMS;CQ Main Dev;active
 capQORT;dev;ac-ms-srv121;16;48;200;3PARLun6-RDC;0;0;10.99.12.7;SOF-25371;Test APP QORT https://jira.alfacapital.ru/browse/SOF-25371;Component;cqAppMain;active
