@@ -1,0 +1,7 @@
+ID;ISIN;AssetShortName;NMD_SecCode;SPOT_SecCode;iNAV_SecCode;isEnabled;Spread_buy;Spread_sell;update_by;update_ts;Instance
+1;RU000A101PN3;БПИФ Альфа Управляемые Облигации;AKMB;AKMB;AKMBA;y;0;0;qort_server;27.07.2023 19:26;autoinvest
+6;RU000A102E78;БПИФ Альфа Управляемые российские акции;AKME;AKME;AKMEI;y;0;0;qort_server;2023-07-27 20:02:01.040;autoinvest
+2;RU000A103L86;БПИФ Альфа Космос;AKSC;AKSC;AKSCB;y;0;0;qort_server;27.07.2023 19:26;autoinvest
+3;RU000A103ZD9;БПИФ Альфа Видеоигры;AKVG;AKVG;AKVGB;y;0;0;qort_server;27.07.2023 19:26;autoinvest
+4;RU000A1045N8;БПИФ Альфа Золото;AKGD;AKGD;AKGDA;y;0;0;qort_server;27.07.2023 19:26;autoinvest
+5;RU000A104X08;БПИФ Альфа Денежный Рынок;AKMM;AKMM;AKMMA;n;0;0;qort_server;27.07.2023 19:26;autoinvest
